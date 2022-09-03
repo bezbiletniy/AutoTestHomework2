@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/9keg911gbx8s10wq/branch/master?svg=true)](https://ci.appveyor.com/project/bezbiletniy/autotesthomework2/branch/master)
